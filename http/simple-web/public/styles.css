@@ -1,0 +1,13 @@
+div {
+  padding: 40px;
+  background: #bebebe;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  flex-direction: column;
+}
+
+h1 {
+  margin-bottom: -0px;
+} 
